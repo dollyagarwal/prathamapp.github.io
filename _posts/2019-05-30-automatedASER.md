@@ -1,14 +1,11 @@
 ---
 layout: post
 title: Automated Diagnostic Tool to measure ASER level
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+subtitle: Developing a ML model that would be trained on ASER data and then be utilized as a standalone testing tool and as a part of adaptive learning solutions for basic numeracy and literacy in English and Indic languages.
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
-
-## **Automated Diagnostic Tool to measure ASER level**
 
 **Objective:** Create an automated diagnostic tool to measure ASER level of children.
 
