@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Assessment of prosody skills
-subtitle: To develop test tools for the effective and comprehensive assessment of prosody of children's oral reading in English as well as Indic languages.
+subtitle: Develop tools for assessment of prosody in English and Indic languages.
 bigimg: /img/path.jpg
-tags: [books, test]
+tags: [speech, test]
 ---
 
 
