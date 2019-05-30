@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Automated Diagnostic Tool to measure ASER level
-subtitle: Developing a ML model that would be trained on ASER data and then be utilized as a standalone testing tool and as a part of adaptive learning solutions for basic numeracy and literacy in English and Indic languages.
-gh-badge: [star, fork, follow]
-tags: [test]
+subtitle: Developing a ML model trained on ASER data to be used as a standalone testing tool and as a part of adaptive learning solutions
+tags: [speech,test]
 comments: true
 ---
 
