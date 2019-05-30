@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Object recognition: Biodiversity App
+title: Biodiversity App
 subtitle: Train a model to recognize flora and fauna from images
 tags: [object recognition, vision]
 ---
