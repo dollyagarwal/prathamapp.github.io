@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Evaluation of Non-Verbal Communication Skills
+subtitle: To develop feature extraction from videos for the assessment of non-verbal communication skills of children
+tags: [vision,test]
 ---
 
 
