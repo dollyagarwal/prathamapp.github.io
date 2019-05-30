@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Assessment of prosody skills
-subtitle: Excerpt from Soulshaping by Jeff Brown
+subtitle: To develop test tools for the effective and comprehensive assessment of prosody of children's oral reading in English as well as Indic languages.
 bigimg: /img/path.jpg
 tags: [books, test]
 ---
 
 
-## **Assessment of prosody skills**
 
 **Objective:** Create an automated diagnostic tool to measure prosodic skills of children’s oral reading
 
