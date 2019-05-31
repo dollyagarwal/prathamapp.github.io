@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Conversation skills in Indic languages
-subtitle: tool to learn verbal communication skills through exposure to conversation flows
-tags: [nlp, chatbot]
+subtitle: Tool to learn verbal communication skills through exposure to conversation flows
+tags: [nlp, chatbot, sentiment analysis, nltk]
 ---
 
 **Objective:** To enhance verbal communication skills through exposure to conversation flows
