@@ -2,7 +2,7 @@
 layout: post
 title: Automated Diagnostic Tool to measure ASER level
 subtitle: Developing a ML model trained on ASER data to be used as a standalone testing tool and as a part of adaptive learning solutions
-tags: [speech,test]
+tags: [speech,test,deep learning]
 comments: true
 ---
 
