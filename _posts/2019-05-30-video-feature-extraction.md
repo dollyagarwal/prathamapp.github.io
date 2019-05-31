@@ -2,7 +2,7 @@
 layout: post
 title: Custom feature extraction from video assignments
 subtitle: extract features from the videos made by children to evaluate conceptual understanding
-tags: [feature extraction, vision, object recognition]
+tags: [feature extraction, vision, object recognition, text mining, OCR, deep learning]
 ---
 
 
