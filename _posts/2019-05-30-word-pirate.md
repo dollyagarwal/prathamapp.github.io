@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Word Pirate App
-subtitle: extract text from real world objects to build a child's vocabulary
-tags: [object recognition, vision]
+subtitle: Extract text from real world objects to build a child's vocabulary
+tags: [object recognition, vision, OCR, text mining]
 ---
 
 
